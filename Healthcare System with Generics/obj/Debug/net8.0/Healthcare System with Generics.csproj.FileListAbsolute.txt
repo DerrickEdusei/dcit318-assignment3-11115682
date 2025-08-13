@@ -1,0 +1,15 @@
+C:\Users\johns\dcit318-assignment3-11115682\Healthcare System with Generics\bin\Debug\net8.0\Healthcare System with Generics.exe
+C:\Users\johns\dcit318-assignment3-11115682\Healthcare System with Generics\bin\Debug\net8.0\Healthcare System with Generics.deps.json
+C:\Users\johns\dcit318-assignment3-11115682\Healthcare System with Generics\bin\Debug\net8.0\Healthcare System with Generics.runtimeconfig.json
+C:\Users\johns\dcit318-assignment3-11115682\Healthcare System with Generics\bin\Debug\net8.0\Healthcare System with Generics.dll
+C:\Users\johns\dcit318-assignment3-11115682\Healthcare System with Generics\bin\Debug\net8.0\Healthcare System with Generics.pdb
+C:\Users\johns\dcit318-assignment3-11115682\Healthcare System with Generics\obj\Debug\net8.0\Healthcare System with Generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johns\dcit318-assignment3-11115682\Healthcare System with Generics\obj\Debug\net8.0\Healthcare System with Generics.AssemblyInfoInputs.cache
+C:\Users\johns\dcit318-assignment3-11115682\Healthcare System with Generics\obj\Debug\net8.0\Healthcare System with Generics.AssemblyInfo.cs
+C:\Users\johns\dcit318-assignment3-11115682\Healthcare System with Generics\obj\Debug\net8.0\Healthcare System with Generics.csproj.CoreCompileInputs.cache
+C:\Users\johns\dcit318-assignment3-11115682\Healthcare System with Generics\obj\Debug\net8.0\Healthcare System with Generics.sourcelink.json
+C:\Users\johns\dcit318-assignment3-11115682\Healthcare System with Generics\obj\Debug\net8.0\Healthcare System with Generics.dll
+C:\Users\johns\dcit318-assignment3-11115682\Healthcare System with Generics\obj\Debug\net8.0\refint\Healthcare System with Generics.dll
+C:\Users\johns\dcit318-assignment3-11115682\Healthcare System with Generics\obj\Debug\net8.0\Healthcare System with Generics.pdb
+C:\Users\johns\dcit318-assignment3-11115682\Healthcare System with Generics\obj\Debug\net8.0\Healthcare System with Generics.genruntimeconfig.cache
+C:\Users\johns\dcit318-assignment3-11115682\Healthcare System with Generics\obj\Debug\net8.0\ref\Healthcare System with Generics.dll
