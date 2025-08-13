@@ -1,0 +1,15 @@
+C:\Users\johns\dcit318-assignment3-11115682\Finance Management System\bin\Debug\net8.0\Finance Management System.exe
+C:\Users\johns\dcit318-assignment3-11115682\Finance Management System\bin\Debug\net8.0\Finance Management System.deps.json
+C:\Users\johns\dcit318-assignment3-11115682\Finance Management System\bin\Debug\net8.0\Finance Management System.runtimeconfig.json
+C:\Users\johns\dcit318-assignment3-11115682\Finance Management System\bin\Debug\net8.0\Finance Management System.dll
+C:\Users\johns\dcit318-assignment3-11115682\Finance Management System\bin\Debug\net8.0\Finance Management System.pdb
+C:\Users\johns\dcit318-assignment3-11115682\Finance Management System\obj\Debug\net8.0\Finance Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johns\dcit318-assignment3-11115682\Finance Management System\obj\Debug\net8.0\Finance Management System.AssemblyInfoInputs.cache
+C:\Users\johns\dcit318-assignment3-11115682\Finance Management System\obj\Debug\net8.0\Finance Management System.AssemblyInfo.cs
+C:\Users\johns\dcit318-assignment3-11115682\Finance Management System\obj\Debug\net8.0\Finance Management System.csproj.CoreCompileInputs.cache
+C:\Users\johns\dcit318-assignment3-11115682\Finance Management System\obj\Debug\net8.0\Finance Management System.sourcelink.json
+C:\Users\johns\dcit318-assignment3-11115682\Finance Management System\obj\Debug\net8.0\Finance Management System.dll
+C:\Users\johns\dcit318-assignment3-11115682\Finance Management System\obj\Debug\net8.0\refint\Finance Management System.dll
+C:\Users\johns\dcit318-assignment3-11115682\Finance Management System\obj\Debug\net8.0\Finance Management System.pdb
+C:\Users\johns\dcit318-assignment3-11115682\Finance Management System\obj\Debug\net8.0\Finance Management System.genruntimeconfig.cache
+C:\Users\johns\dcit318-assignment3-11115682\Finance Management System\obj\Debug\net8.0\ref\Finance Management System.dll
