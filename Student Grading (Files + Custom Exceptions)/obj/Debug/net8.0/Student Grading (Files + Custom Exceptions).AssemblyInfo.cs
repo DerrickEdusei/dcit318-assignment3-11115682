@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Student Grading (Files + Custom Exceptions)")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+69566c3b4df9fcb500c435aae7c3927dfc195a2b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dd6319e171b3b7b10ed08480906654e3085053c5")]
 [assembly: System.Reflection.AssemblyProductAttribute("Student Grading (Files + Custom Exceptions)")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Student Grading (Files + Custom Exceptions)")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
